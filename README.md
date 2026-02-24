@@ -99,7 +99,7 @@ To bring the application up to date, direct interventions in the source code wer
 
 The browser attempts to access port 80, but we forced HTTPS.
 
-*Solution:* Explicitly access using the secure protocol: `https://<Your-IP>` (e.g., `https://192.168.254.130`). Accept the security risk for the self-signed certificate.
+*Solution:* Explicitly access using the secure protocol: `https://<Your-IP>` . Accept the security risk for the self-signed certificate.
 
 **Error: Database is empty / "No new CVEs"**
 
